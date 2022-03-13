@@ -1,0 +1,20 @@
+.imgborder {
+    border: 2px solid rgb(226, 74, 175);
+}
+
+.sag-ust {
+    position: fixed;
+    right: 0px;
+    top: 100px;
+}
+
+.ust {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10000;
+    width: 100%;
+    left: 0;
+    right: 0;
+    z-index: 99999;
+}
